@@ -63,7 +63,7 @@ const channelListData = [
 ]
 
 const socialListData = [
-  {
+  /* {
     url: "https://www.instagram.com/renatomalb/", 
     imageUrl:"/assets/instagram.svg",    
     alt: "Instagram do Renato Albuquerque",
@@ -79,7 +79,7 @@ const socialListData = [
     url: "https://github.com/renato-albuquerque/", 
     imageUrl:"/assets/github.svg",    
     alt: "Github do Renato Albuquerque",
-  },
+  }, */
 
   {
     url: "https://www.linkedin.com/in/renato-malbuquerque/", 
