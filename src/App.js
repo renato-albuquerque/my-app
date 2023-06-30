@@ -65,27 +65,27 @@ const channelListData = [
 const socialListData = [
   /* {
     url: "https://www.instagram.com/renatomalb/", 
-    imageUrl:"/assets/instagram.svg",    
+    imageUrl: "/assets/instagram.svg",    
     alt: "Instagram do Renato Albuquerque",
   },
 
   {
     url: "https://www.facebook.com/renato.albuquerque.501/", 
-    imageUrl:"/assets/facebook.svg",    
+    imageUrl: "/assets/facebook.svg",    
     alt: "Facebook do Renato Albuquerque",
   },
 
   {
     url: "https://github.com/renato-albuquerque/", 
-    imageUrl:"/assets/github.svg",    
+    imageUrl: "/assets/github.svg",    
     alt: "Github do Renato Albuquerque",
-  }, */
+  },
 
   {
     url: "https://www.linkedin.com/in/renato-malbuquerque/", 
     imageUrl: "/assets/linkedin.svg",    
     alt: "Linkedin do Renato Albuquerque",
-  },
+  }, */
 ]
 
 function App() {
